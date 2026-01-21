@@ -67,7 +67,7 @@ Key objectives:
    ```bash
    pip install pandas matplotlib seaborn openpyxl
    ```
-3. Open the notebook: `partycity_q4_analysis.ipynb`
+3. Open the notebook: `case_study_YoY_forecast.ipynb`
 4. Run all cells to reproduce:
 
    * Cleaned and prepared datasets
