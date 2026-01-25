@@ -7,7 +7,7 @@ This project analyzes Party City’s (PRTY) historical and transaction-based sal
 Key objectives:
 
 * Estimate Q4 2022 comparable sales using reported and transaction-level data
-* Identify high-risk stores for potential closures based on service offerings and location characteristics
+* Identify high-risk stores for potential closures based on service offerings, location characteristics, sales trend
 * Visualize trends and risks in an executive-friendly format
 
 ---
